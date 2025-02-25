@@ -80,7 +80,6 @@ public class FIFO implements Queue {
 
       Stämmer ej detta ska metoden endast returnera false, den
       ska inte kasta något undantag.
-
      */
     public boolean equals(Object f){
       return true;
